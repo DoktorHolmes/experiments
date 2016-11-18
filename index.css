@@ -6,16 +6,16 @@ html, body {
 	background-color: Orange;
 	background: url(images/backgrounds/orange_background_01.jpg) fixed center;
 }
-login{
+#login{
 	top: 300px;
 }
 
-fuser{
+#fuser{
 	top: 30px;
 	width: 140%;
 	height: 120%;
 }
-fpass{
+#fpass{
 	top: 30px;
 	width: 140%;
 	height: 120%;
