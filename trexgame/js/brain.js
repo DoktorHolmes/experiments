@@ -16,7 +16,7 @@ function startGame(tRexGameRunner)
     //      UP
     //      Down
     //
-    var perceptron = new Architect.Perceptron(3,20,20,2);
+    var perceptron = new Architect.Perceptron(3,120,120,2);
     var learningRate = 0.03;
 
     var keyEvent = {
