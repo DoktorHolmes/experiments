@@ -1,0 +1,14 @@
+{
+  "name": "trex",
+  "version": "1.0.0",
+  "description": "A multilayer preceptron based neural network which learns the T-Rex game coordinated by some learning rules. Demo http://amaneureka.github.io/T-Rex/",
+  "main": "synaptic.js",
+  "scripts": {
+    "test": "node js/synaptic"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "synaptic": "^1.1.4"
+  }
+}
